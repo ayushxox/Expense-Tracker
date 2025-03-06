@@ -2,7 +2,7 @@ import React from 'react'
 import InputForm from './components/InputForm'
 import ShowRecentTransactions from './components/ShowRecentTransactions'
 import Calculation from './components/Calculation'
-import Footer from './components/Footer'
+
 
 const App = () => {
   return (
